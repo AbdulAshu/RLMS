@@ -24,7 +24,7 @@
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(333).png)
 
 ###  To test the rlms approach
-[Miltimodal news data to test RLMS](https://www.voanews.com/)
+[We use the Multimodal news data available at the news articles in this news website:](https://www.voanews.com/)
 
 ### We publish our own package at PyPI (Colab)
 ```python
