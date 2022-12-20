@@ -23,11 +23,7 @@
 
 ###  To test the rlms approach
 [Miltimodal news data to test RLMS](https://www.voanews.com/)
-```python
-from rlms import get_summary_multioutput
-get_summary_multioutput()
 
-```
 
 ###  Install package in colab
 
