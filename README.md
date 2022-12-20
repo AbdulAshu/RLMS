@@ -37,9 +37,13 @@ from MO_RLMS import get_summary_multioutput
 get_summary_multioutput()
 ```
 #### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
+
 [https://www.voanews.com/](https://www.voanews.com/)
+#### We can use the URL of any news article available at above website as shown in the following figure:
+
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
+### Output:  ![alt text](https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html)
 
 ### Method 2 : Using Local Jupyter Notebook
 
