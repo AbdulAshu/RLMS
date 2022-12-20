@@ -1,4 +1,4 @@
-# Reinforcement Learning based Miltimodal Summarization 
+# Reinforcement Learning based Miltimodal Summarization (RLMS)
 
 
 ###  System archiecture of RLMS
