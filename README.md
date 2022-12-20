@@ -36,6 +36,8 @@
 from MO_RLMS import get_summary_multioutput
 get_summary_multioutput()
 ```
+#### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
+[https://www.voanews.com/](https://www.voanews.com/)
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
 
@@ -54,8 +56,7 @@ get_summary_multioutput()
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(333).png)
 
 ###  To test the RLMS approach
-#### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
-[https://www.voanews.com/](https://www.voanews.com/)
+
 
 
 ### News article (test_link) 
