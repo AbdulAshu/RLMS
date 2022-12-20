@@ -24,6 +24,27 @@
 ###  To test the rlms approach
 [Miltimodal news data to test RLMS](https://www.voanews.com/)
 
+### We publish our own package at PyPI (Colab)
+```python
+!pip install MO-RLMS
+```
+
+### To run our our RLMS with an example in colab
+```python
+from MO_RLMS import get_summary_multioutput
+get_summary_multioutput()
+```
+### We publish our own package at PyPI (Local)
+```python
+!pip install MI-RLMS-MO
+```
+### To run our our RLMS with an example in local
+```python
+from MI_RLMS_MO import get_summary_multioutput
+get_summary_multioutput()
+
+```
+
 
 ###  Install package in colab
 
