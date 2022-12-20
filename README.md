@@ -28,6 +28,8 @@
 #### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
 [https://www.voanews.com/](https://www.voanews.com/)
 
+
+### We create a package for RLMS named: MO-RLMS in the PyPI repo
 ### Step-2 : To install MO-RLMS in GoogleColab type the following command: 
 ```python
 !pip install MO-RLMS
