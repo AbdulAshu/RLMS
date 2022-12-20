@@ -24,7 +24,7 @@
 ```
 
 
-### We create a package for RLMS named: MO-RLMS in the PyPI repo
+### We create two packages for RLMS in the PyPI Repo named: MO-RLMS for GoogleColab and MI-RLMS-MO for local Jupyter Notebook
 ### Step-1 : To install MO-RLMS in GoogleColab type the following command: 
 ```python
 !pip install MO-RLMS
@@ -36,7 +36,7 @@
 from MO_RLMS import get_summary_multioutput
 get_summary_multioutput()
 ```
-### Jump to step-3 to test the RLMS
+### Jump to Step-3 to test the RLMS
 
 
 ### Method 2 : Using Local Jupyter Notebook
@@ -50,23 +50,22 @@ get_summary_multioutput()
 from MI_RLMS_MO import get_summary_multioutput
 get_summary_multioutput()
 ```
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(333).png)
 
-###  To test the RLMS approach
+###  Step-3: To test the RLMS approach
 
 #### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
 
 [https://www.voanews.com/](https://www.voanews.com/)
 #### We can use the URL of any news article available at above website as shown in the following figure:
-
+### News article (test_link) 
+```python
+https://www.voanews.com/a/russia-shells-kherson-part-of-broader-attack-on-southern-ukraine-/6881528.html
+```
 ### Output:  Following is the Multimodal Summarized Output obtained for the ![Test news URL](https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html)
 
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
 
-### News article (test_link) 
-```python
-https://www.voanews.com/a/russia-shells-kherson-part-of-broader-attack-on-southern-ukraine-/6881528.html
-```
+
 
 
