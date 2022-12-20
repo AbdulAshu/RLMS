@@ -59,7 +59,7 @@ get_summary_multioutput()
 #### We can use the URL of any news article available at above website as shown in the following figure:
 ### News article (test_link) 
 ```python
-https://www.voanews.com/a/russia-shells-kherson-part-of-broader-attack-on-southern-ukraine-/6881528.html
+https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html
 ```
 ### Output:  Following is the Multimodal Summarized Output obtained for the ![Test news URL](https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html)
 
