@@ -41,9 +41,11 @@ get_summary_multioutput()
 [https://www.voanews.com/](https://www.voanews.com/)
 #### We can use the URL of any news article available at above website as shown in the following figure:
 
+### Output:  Following is the Multimodal Summarized Output obtained for the ![Test news URL](https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html)
+
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
-### Output:  Following is the Multimodal Summarized Output obtained for the ![Test news URL](https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html)
+
 
 ### Method 2 : Using Local Jupyter Notebook
 
