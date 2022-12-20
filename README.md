@@ -4,7 +4,7 @@
 ###  System archiecture of RLMS
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/mainarc-crop.jpg)
 
-### Step 1 :Open google colab
+### Step 1 : Open google colab
 
 [GoogleColab](https://colab.research.google.com/)
 
@@ -28,7 +28,7 @@
 #### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
 [https://www.voanews.com/](https://www.voanews.com/)
 
-### We publish our own package at PyPI (Colab)
+### Step-2 : To install MO-RLMS in GoogleColab type the following command: 
 ```python
 !pip install MO-RLMS
 ```
