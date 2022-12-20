@@ -4,9 +4,9 @@
 ###  System archiecture of RLMS
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/mainarc-crop.jpg)
 
-### Open google colab
+### Step 1 :Open google colab
 
-Step 1 :[GoogleColab](https://colab.research.google.com/)
+[GoogleColab](https://colab.research.google.com/)
 
 ###  Under the section Runtime --> Change runtime --> GPU
 
