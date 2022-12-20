@@ -1,5 +1,9 @@
 # Reinforcement Learning based Miltimodal Summarization 
 
+
+###  System archiecture of RLMS
+![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/mainarc-crop.jpg)
+
 ### Open google colab
 [GoogleColab](https://colab.research.google.com/)
 
@@ -9,8 +13,6 @@
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(330).png)
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(331).png)
 
-###  System archiecture of RLMS
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/mainarc-crop.jpg)
 
 ###  Check the gpu version
 ```python
