@@ -43,7 +43,7 @@ get_summary_multioutput()
 
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
-### Output:  ![Test news URL :](https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html)
+### Output:  Following is the Multimodal Summarized Output obtained for the ![Test news URL](https://www.voanews.com/a/n-korea-fires-2-ballistic-missiles-in-resumption-of-testing-/6881249.html)
 
 ### Method 2 : Using Local Jupyter Notebook
 
