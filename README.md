@@ -15,7 +15,6 @@
 ```python
 !nvidia-smi
 ```
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(332).png)
 
 
 
