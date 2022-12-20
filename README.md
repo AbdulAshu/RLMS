@@ -35,12 +35,14 @@
 from MO_RLMS import get_summary_multioutput
 get_summary_multioutput()
 ```
-###  Working mechanism of RLMS in colab
-
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 ###  Install package in colab
 
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.22.47.png)
+
+
+###  Working mechanism of RLMS in colab
+
+![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
 
 ### Method 2 : Using Local Jupyter Notebook
