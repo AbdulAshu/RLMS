@@ -38,6 +38,10 @@ get_summary_multioutput()
 ###  Working mechanism of RLMS in colab
 
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
+###  Install package in colab
+
+![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.22.47.png)
+
 
 ### Method 2 : Using Local Jupyter Notebook
 
@@ -56,10 +60,6 @@ get_summary_multioutput()
 ###  To test the rlms approach
 #### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
 [https://www.voanews.com/](https://www.voanews.com/)
-
-###  Install package in colab
-
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.22.47.png)
 
 
 ### News article (test_link) 
