@@ -53,7 +53,7 @@ from MI_RLMS_MO import get_summary_multioutput
 get_summary_multioutput()
 ```
 
-###  Step-3: To test the RLMS approach
+##  Step-3: To test the RLMS approach
 
 #### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
 
