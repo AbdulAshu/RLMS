@@ -56,7 +56,9 @@ get_summary_multioutput()
 
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
-
-
+### News article (test_link) 
+```python
+https://www.voanews.com/a/russia-shells-kherson-part-of-broader-attack-on-southern-ukraine-/6881528.html
+```
 
 
