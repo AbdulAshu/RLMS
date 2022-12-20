@@ -22,11 +22,7 @@
 
 
 
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(333).png)
 
-###  To test the rlms approach
-#### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
-[https://www.voanews.com/](https://www.voanews.com/)
 
 
 ### We create a package for RLMS named: MO-RLMS in the PyPI repo
@@ -44,13 +40,17 @@ get_summary_multioutput()
 ```python
 !pip install MI-RLMS-MO
 ```
-### To run our our RLMS with an example in local
+### To test RLMS in local
 ```python
 from MI_RLMS_MO import get_summary_multioutput
 get_summary_multioutput()
 
 ```
+![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(333).png)
 
+###  To test the rlms approach
+#### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
+[https://www.voanews.com/](https://www.voanews.com/)
 
 ###  Install package in colab
 
