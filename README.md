@@ -29,19 +29,13 @@
 ```python
 !pip install MO-RLMS
 ```
+![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.22.47.png)
 
-### Step-3 : Follow the following command to test the RLMS in GoogleColab 
+### Step-3 : Type the following command to test the RLMS in GoogleColab 
 ```python
 from MO_RLMS import get_summary_multioutput
 get_summary_multioutput()
 ```
-###  Install package in colab
-
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.22.47.png)
-
-
-###  Working mechanism of RLMS in colab
-
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
 
@@ -59,7 +53,7 @@ get_summary_multioutput()
 ```
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%20(333).png)
 
-###  To test the rlms approach
+###  To test the RLMS approach
 #### We use the Multimodal news data available at the news articles in this news website to test the RLMS approach
 [https://www.voanews.com/](https://www.voanews.com/)
 
