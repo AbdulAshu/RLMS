@@ -6,7 +6,6 @@
 
 ###  We show the execution of RLMS in two medthods:
 ### Method 1 : Using GoogleColab
-### Method 2 : Using Local Jupyter Notebook
 
 ### Step 1 : Open google colab
 
@@ -25,10 +24,6 @@
 ```
 
 
-
-
-
-
 ### We create a package for RLMS named: MO-RLMS in the PyPI repo
 ### Step-2 : To install MO-RLMS in GoogleColab type the following command: 
 ```python
@@ -44,6 +39,7 @@ get_summary_multioutput()
 
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
+### Method 2 : Using Local Jupyter Notebook
 
 ### Step-4 : Follow the following command to test the RLMS in Local 
 ```python
