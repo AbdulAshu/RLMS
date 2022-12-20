@@ -4,6 +4,10 @@
 ###  System archiecture of RLMS
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/mainarc-crop.jpg)
 
+###  We show the execution of RLMS in two medthods:
+### Method 1 : Using GoogleColab
+### Method 2 : Using Local Jupyter Notebook
+
 ### Step 1 : Open google colab
 
 [GoogleColab](https://colab.research.google.com/)
@@ -31,12 +35,17 @@
 !pip install MO-RLMS
 ```
 
-### To run our our RLMS with an example in colab
+### Step-3 : Follow the following command to test the RLMS in GoogleColab 
 ```python
 from MO_RLMS import get_summary_multioutput
 get_summary_multioutput()
 ```
-### We publish our own package at PyPI (Local)
+###  Working mechanism of RLMS in colab
+
+![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
+
+
+### Step-4 : Follow the following command to test the RLMS in Local 
 ```python
 !pip install MI-RLMS-MO
 ```
@@ -56,9 +65,6 @@ get_summary_multioutput()
 
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.22.47.png)
 
-###  Working mechanism of RLMS in colab
-
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/Screenshot%202022-12-20%2019.30.52.png)
 
 ### News article (test_link) 
 ```python
