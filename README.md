@@ -5,7 +5,8 @@
 ![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/mainarc-crop.jpg)
 
 ### Open google colab
-[GoogleColab](https://colab.research.google.com/)
+
+Step 1 :[GoogleColab](https://colab.research.google.com/)
 
 ###  Under the section Runtime --> Change runtime --> GPU
 
