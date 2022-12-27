@@ -4,7 +4,7 @@
 
 
 ###  System archiecture of RLMS
-![alt text](https://github.com/PhaniSiginamsetty/RLMS/blob/main/img/mainarc-crop.jpg)
+
 
 ###  We show the execution of RLMS in two medthods:
 ### Method 1 : Using GoogleColab
